@@ -1,0 +1,12 @@
+{
+    "name": "TYPO3 PHP CI Workflow",
+    "description": "Workflow template to  perform lint, code quality and unit test tasks for a typo3 extension.",
+    "iconName": "typo3-php-ci-icon",
+    "categories": [
+        "PHP"
+    ],
+    "filePatterns": [
+        "ext_emconf.php",
+        "composer.json",
+    ]
+}
