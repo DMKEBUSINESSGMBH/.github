@@ -1,0 +1,11 @@
+{
+    "name": "TYPO3 TER Release Workflow",
+    "description": "Workflow template to release a typo3 extension to typo3 extension repository (ter).",
+    "iconName": "typo3-ter-release-icon",
+    "categories": [
+        "PHP"
+    ],
+    "filePatterns": [
+        "ext_emconf.php"
+    ]
+}
